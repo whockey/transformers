@@ -45,7 +45,6 @@
     "less": "*",
     "stylus": "*",
     "sass": "*",
-    "marked": "*",
     "supermarked": "*",
     "markdown-js": "*",
     "markdown": "*",
